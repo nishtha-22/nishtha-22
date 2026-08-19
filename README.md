@@ -37,10 +37,10 @@ Currently exploring full-stack development, machine learning, AI and Electronics
   <h3><code>Tech Stack</code></h3>
   
   <h5>Languages</h5>
-  <p><img src="https://skillicons.dev/icons?i=cpp,python,js" /></p>
+  <p><img src="https://skillicons.dev/icons?i=cpp,python,js,ts" /></p>
   
   <h5>Frontend</h5>
-  <p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /></p>
+  <p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,electron" /></p>
   
   <h5>Backend</h5>
   <p><img src="https://skillicons.dev/icons?i=mysql" /></p>

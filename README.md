@@ -62,7 +62,7 @@ Currently exploring full-stack development, machine learning, AI and Electronics
 
 ---
 <p align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=aniyooonish&theme=leafy" alt="Duolingo Stats Card">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=aniyooonsh&theme=leafy" alt="Duolingo Stats Card">
 </p>
 
 ---

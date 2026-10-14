@@ -5,10 +5,10 @@
 
 <table> 
 <tr>
-<td width="15%" valign="top"><picture>
+<!-- <td width="15%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=nishtha-22&theme=aurora&style=terminal&mode=light" />
   <img src="https://www.gitskins.com/api/section/portrait?username=nishtha-22&theme=aurora&style=terminal&mode=dark" width="100%" alt="nishtha-22 portrait" />
-</picture></td>
+</picture></td> -->
 <td width="50%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=nishtha-22&theme=aurora&style=terminal&label=nishtha&mode=light" />
   <img src="https://www.gitskins.com/api/section/wordmark?username=nishtha-22&theme=aurora&style=terminal&label=nishtha&mode=dark" width="100%" alt="nishtha-22 wordmark" />
